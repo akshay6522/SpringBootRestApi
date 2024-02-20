@@ -14,6 +14,7 @@ public class Product {
 	
 	public Product() {
 		// TODO Auto-generated constructor stub
+System.out.println(");
 	}
 
 	public Product(String productId, String productName, int productPrice, int productQty) {
